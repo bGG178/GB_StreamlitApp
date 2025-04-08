@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52309e59-037a-427f-9ec4-23dbf2238ca4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navpages/__init__.py" afterDir="false" />
+    <list default="true" id="52309e59-037a-427f-9ec4-23dbf2238ca4" name="Changes" comment="*File organization&#10;+YML file Testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/downloadandformat.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/downloadandformat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navpages/page1.py" beforeDir="false" afterPath="$PROJECT_DIR$/navpages/page1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navpages/page2.py" beforeDir="false" afterPath="$PROJECT_DIR$/navpages/page2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navpages/page3.py" beforeDir="false" afterPath="$PROJECT_DIR$/navpages/page3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_downloads.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_downloads.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uscensusgif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Images/uscensusgif.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -60,6 +51,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bower\PycharmProjects\streamlit_app\main" />
+      <recent name="C:\Users\bower\PycharmProjects\streamlit_app\Images" />
       <recent name="C:\Users\bower\PycharmProjects\streamlit_app" />
       <recent name="C:\Users\bower\PycharmProjects\streamlit_app\images" />
     </key>
@@ -118,7 +110,20 @@
       <option name="presentableId" value="Default" />
       <updated>1742858401015</updated>
     </task>
+    <task id="LOCAL-00001" summary="*File organization&#10;+YML file Testing">
+      <option name="closed" value="true" />
+      <created>1744080554244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744080554244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="*File organization&#10;+YML file Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="*File organization&#10;+YML file Testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
