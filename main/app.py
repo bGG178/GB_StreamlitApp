@@ -8,6 +8,12 @@ ChatGPT helped a ton with learning many of the basic functionalities of Streamli
 Such as reformatting large portions of code for me
 """
 import streamlit as st
+import sys
+import os
+
+#Ensures app.py can run from within a main folder, instead of root
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../")))
+
 
 
 st.set_page_config(page_title="US Census Data Displayer", layout="wide",page_icon="🦅")
@@ -22,7 +28,7 @@ if page == "Home":
     st.text("FUN FACT! Did you know: The US Census website has around 2,000 datasheets and aggregate reports based off of a litany of census data!")
     st.text("Each of these, especially the Decennial US Census (which this project is based on) has upwards of 9,000 variables to request with the API!")
     st.text("Fun fact part 2, each of these 2,000 documents also have almost no consistent codes, meaning the code to fetch population for the 2020 census is not related to the code used to fetch the same data in the 2010 census!😁😁😁😁😁😁")
-    st.image("uscensusgif.gif",caption="Thank you US gov API!")
+    st.image("Images/uscensusgif.gif",caption="Thank you US gov API!")
     st.text("Heres a fun gif of me scrolling through SOME of the census data!")
     st.subheader("-GB")
 elif page == "Timeline":

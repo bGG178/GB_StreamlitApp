@@ -1,5 +1,4 @@
-import pytest
-from downloadandformat import download_data
+from main.downloadandformat import download_data
 
 
 data = []

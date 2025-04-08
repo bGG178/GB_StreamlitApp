@@ -1,6 +1,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt
-from downloadandformat import download_data, formatdata
+from main.downloadandformat import download_data, formatdata
 from matplotlib.ticker import FuncFormatter
 
 

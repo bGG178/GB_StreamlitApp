@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52309e59-037a-427f-9ec4-23dbf2238ca4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navpages/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloadandformat.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/downloadandformat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navpages/page1.py" beforeDir="false" afterPath="$PROJECT_DIR$/navpages/page1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navpages/page2.py" beforeDir="false" afterPath="$PROJECT_DIR$/navpages/page2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navpages/page3.py" beforeDir="false" afterPath="$PROJECT_DIR$/navpages/page3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_downloads.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_downloads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uscensusgif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Images/uscensusgif.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2umeueXbbyzCUCLZf7oWTnO9K8X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,19 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_downloads.test_download2000.executor": "Run",
-    "Python tests.Python tests in test_downloads.py.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.page3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_downloads.test_download2000.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_downloads.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.page3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bower\PycharmProjects\streamlit_app\main" />
       <recent name="C:\Users\bower\PycharmProjects\streamlit_app" />
       <recent name="C:\Users\bower\PycharmProjects\streamlit_app\images" />
     </key>

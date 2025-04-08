@@ -1,7 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
-from downloadandformat import download_data, formatdata
+from main.downloadandformat import download_data, formatdata
 from matplotlib.ticker import FuncFormatter
 
 def show():
