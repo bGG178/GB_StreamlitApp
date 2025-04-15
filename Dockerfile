@@ -2,10 +2,10 @@
 FROM python:3.12-slim
 
 #workdirectory location (not 100% sure what this does entirely, i know it sets the default location for command execution)
-WORKDIR /streamlit_app
+WORKDIR /streamlit_app/main
 
 #copy app's files
-COPY . /streamlit_app
+COPY . /streamlit_app/main
 
 #install requirements with pip from requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
